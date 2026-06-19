@@ -86,9 +86,6 @@ while True:
     elif pilihOp == 6:
         print("yaudah, makasih udah mampir.")
         break
-    except ValueError:
-        print("\nmasukan angka yang bener ya.")
-        continue
 
     finishInput = input(" ")
     if finishInput == "":
