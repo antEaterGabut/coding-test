@@ -21,7 +21,7 @@ while True:
         print("\nkayak yang iya aja -_-.")
     else:
         print("\nyang bener mpruy ;(.")
-        continue
+        break
 
     delay = input(" ")
     if delay == "":
