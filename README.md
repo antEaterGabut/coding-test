@@ -34,18 +34,22 @@ rm -rf  ~/coding-test/.git
 
 - Jalankan kalkulator gabut ini
 
-```masuk ke folder kalkulator
+Masuk ke folder kalkulator
+
+```
 
 cd config_toolsAnter
 
 ```
 
-```jalankan program
+Jalankan program
+
+```
 
 python kalkulator_CLI.py
 
 ```
 >Catatan: jika python tidak berfungsi, gunakan python3
 
-#Dukungan
+# Dukungan
 bila ada yang ingin ditambahkan, ada bug boleh perbaiki, atau masalah lainnya, silahkan comment atau kontak admin
